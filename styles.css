@@ -597,6 +597,13 @@ section {
     height: 95px;
     font-size: 2.3rem;
   }
+
+  @media (max-width: 720px) {
+  .logo {
+    font-size: 2.2rem;
+    font-weight: 800;
+  }
+}
 }
 
 
